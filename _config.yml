@@ -14,7 +14,7 @@ company_url:
 description: 很有用的博客提供实用的网络教程，专注于知识分享，为到来的游客提供很有用的帮助。
 favicon: favicon.png # Image must be in assets/images
 
-url: https://www.ausefulblog.com # the base hostname & protocol for your site
+url: https://smith78965.github.io # the base hostname & protocol for your site
 
 ## Gem
 gems:
